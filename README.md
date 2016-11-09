@@ -1,6 +1,16 @@
 # Ecommerce
 Easily create fully-static ecommerce sites powered by [Hanzo](https://hanzo.io).
 
+## Install
+```bash
+npm install -g ecommerce
+```
+
+## Usage
+```bash
+ecommerce new my-new-site
+```
+
 ## Project layout
 - Project related files in root:
     - README
