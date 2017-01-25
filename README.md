@@ -1,4 +1,6 @@
 # Ecommerce
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/hanzo-io/ecommerce.svg)](https://greenkeeper.io/)
 Easily create fully-static ecommerce sites powered by [Hanzo](https://hanzo.io).
 
 ## Install
